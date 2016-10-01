@@ -1,0 +1,30 @@
+.informacion{
+  font-size: 20px;
+}
+.titulo{
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  font-size: 50px;
+}
+.informacion{
+  font-family: 'Bevan', cursive;
+}
+.informacion2{
+  font-family: 'Neuton', serif;
+  font-size: 15px;
+
+}
+.padding{
+  background: url("fondo.jpg")no-repeat fixed;
+  -webkit-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+}
+.padding2{
+  background: url("fondo2.jpg")no-repeat fixed;
+  -webkit-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+}
